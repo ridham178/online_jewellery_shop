@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Feb 2018 22:28:45 at http://demo.designshopify.com/html_jewelry/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.designshopify.com/html_jewelry/ -O1 "D:\template\jewelryWebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:31:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 138204 got 106256): demo.designshopify.com/html_jewelry/assets/fonts/fontawesome-webfont.ttf?v=4.2.0
+22:32:47	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/blog-full.html (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/article-left (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/1images/.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/1.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/2.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/3.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/4.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/5.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/6.jpg (from demo.designshopify.com/html_jewelry/)
+22:33:24	Warning: 	Retry after error -4 (Incorrect length (106256 Bytes, 138204 expected)) at link demo.designshopify.com/html_jewelry/assets/fonts/fontawesome-webfont.ttf?v=4.2.0 (from demo.designshopify.com/html_jewelry/assets/stylesheets/font-awesome.min.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/blank.gif (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/camera_skins.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/camera_skins.png? (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay1.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay2.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay3.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay4.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay5.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay6.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay7.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay8.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay9.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/patterns/overlay10.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/jquery.camera.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/fancybox_sprite.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/application.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/fancybox_loading.gif (from demo.designshopify.com/html_jewelry/assets/stylesheets/application.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/fonts/glyphicons-halflings-regular.eot (from demo.designshopify.com/html_jewelry/assets/stylesheets/bootstrap.min.3x.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/fonts/glyphicons-halflings-regular.eot? (from demo.designshopify.com/html_jewelry/assets/stylesheets/bootstrap.min.3x.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/fonts/glyphicons-halflings-regular.woff (from demo.designshopify.com/html_jewelry/assets/stylesheets/bootstrap.min.3x.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/fonts/glyphicons-halflings-regular.ttf (from demo.designshopify.com/html_jewelry/assets/stylesheets/bootstrap.min.3x.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/fonts/glyphicons-halflings-regular.svg (from demo.designshopify.com/html_jewelry/assets/stylesheets/bootstrap.min.3x.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/icon_pre_slider.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/cs.style.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/icon_next_slider.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/cs.style.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/bkg_rating.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/cs.style.css)
+22:33:26	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/checked_box.png (from demo.designshopify.com/html_jewelry/assets/stylesheets/cs.style.css)
+22:33:28	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/5_9c4bb547-32eb-42ea-bed5-2f1fc3832c2e_1024x1024.jpg (from demo.designshopify.com/html_jewelry/product.html)
+22:33:28	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/6_2b8df768-6599-4e41-ae4c-2d6afd2b1d95_1024x1024.jpg (from demo.designshopify.com/html_jewelry/product.html)
+22:33:28	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/assets/images/7_1024x1024.jpg (from demo.designshopify.com/html_jewelry/product.html)
+22:33:30	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/index.hml (from demo.designshopify.com/html_jewelry/about-us.html)
+22:33:37	Error: 	"Not Found" (404) at link demo.designshopify.com/html_jewelry/products.html (from demo.designshopify.com/html_jewelry/wishlist.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 52 seconds : 199 links scanned, 159 files written (6120818 bytes overall) [4990757 bytes received at 17091 bytes/sec], 1416893 bytes transferred using HTTP compression in 29 files, ratio 14%, 1.3 requests per connection
+(38 errors, 2 warnings, 0 messages)
